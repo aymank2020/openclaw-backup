@@ -1,0 +1,35 @@
+{
+  "17b28465730b8624e1252c446b86066436fc0749b53c8221a933df0654e9f360": {
+    "deviceId": "17b28465730b8624e1252c446b86066436fc0749b53c8221a933df0654e9f360",
+    "publicKey": "eZbUeXsO_5qCOct19RVQ3I3GkL5I4iThWnOXQ76mYlI",
+    "platform": "linux",
+    "clientId": "gateway-client",
+    "clientMode": "backend",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.admin",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "f1b02eb6fb9c457b8f78bee7cb2ad4ee",
+        "role": "operator",
+        "scopes": [
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing"
+        ],
+        "createdAtMs": 1770228837982,
+        "rotatedAtMs": 1770228838062,
+        "lastUsedAtMs": 1770417150102
+      }
+    },
+    "createdAtMs": 1770228837982,
+    "approvedAtMs": 1770228838062,
+    "displayName": "agent"
+  }
+}
