@@ -1,0 +1,12 @@
+# Private OpenClaw state must never be published from this repository.
+/config/
+/sessions/
+/.openclaw/
+*.tar.gz
+*.zip
+*.sqlite
+*.sqlite-*
+*.db
+*.pem
+*.key
+__pycache__/
